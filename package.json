@@ -1,0 +1,30 @@
+{
+  "name": "browserify-sample",
+  "version": "1.0.0",
+  "description": "browserify sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shi.pengyan",
+  "license": "MIT",
+  "repository": "",
+  "devDependencies": {
+    "babelify": "^6.3.0",
+    "browserify": "^11.2.0",
+    "del": "^2.0.2",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-eslint": "^1.0.0",
+    "gulp-html-replace": "^1.5.4",
+    "gulp-react": "^3.0.1",
+    "gulp-streamify": "^1.0.2",
+    "gulp-watch": "^4.3.5",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0"
+  }
+}
